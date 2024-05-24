@@ -1,5 +1,4 @@
 # CEO Dashboards
 
-## CEO PBI Dashboard
+## CEO Excel Dashboard
 ![test](CEO_PBI_Dashboard.png)
-
