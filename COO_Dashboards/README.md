@@ -11,5 +11,5 @@ The Chief Operating Officer (COO) is a senior executive responsible for overseei
 - Innovation and Development
 
 ## COO PBI Dashboard
-![test](COO_Dashboard_PBI.png)
+![test](COO_Dashboard_Qly_PBI.png)
 
