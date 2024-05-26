@@ -2,7 +2,7 @@
 The Chief Product Officer (CPO) is a senior executive responsible for the overall product strategy and execution within an organization. The CPO leads the product management team and collaborates with other departments to ensure that the company's products align with customer needs, market demands, and business goals. The role of the CPO is crucial in driving innovation, enhancing product quality, and ensuring the success of the product portfolio.
 
 ## CPO PBI Dashboard
-![test](.png)
+![test](CPO_Dashboard_qtly_pbi.png)
 
 # Metrics a CPO is Involved In:
 
